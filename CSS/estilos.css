@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: rgb(250, 239, 239);
+    font-size: 16px;
+   
+}
+h1,h2 {
+    color: rgb(146, 66, 66);
+}
+h1{
+    font-size: 50px;
+}
+p .green{
+    color: rgb(45, 146, 107);
+}
+p {
+    font-size: 20px;
+}
+blockquote p {
+    font-size: 1em;
+}
